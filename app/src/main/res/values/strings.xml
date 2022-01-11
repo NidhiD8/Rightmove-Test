@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RightMove Test</string>
+    <string name="avg_price">What is the average property price?</string>
+</resources>
